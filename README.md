@@ -23,7 +23,7 @@ The steps for running the code :
 
 All Data can be found here : https://drive.google.com/open?id=1QttRl0m24pY2ilMTg8Wo9GvluGFyb9cP
 
-You can find the explanation of our model in : [REBUS.PDF](https://github.com/visiativ-innovation/recommendation/REBUS.pdf)
+You can find the explanation of our model in : [REBUS.PDF](https://github.com/visiativ-innovation/recommendation/blob/master/REBUS.pdf)
 
 If you have any issues with the code, you can conctat at corentin.lonjarret@visiativ.com
 
@@ -35,4 +35,4 @@ We thank R.He and J.McAuley who made available their codes and data. You can fin
 
 License
 -------
-© Contributors, 2018. Licensed under an [Apache-2](https://github.com/visiativ-innovation/recommendation/LICENSE) license.
+© Contributors, 2018. Licensed under an [Apache-2](https://github.com/visiativ-innovation/recommendation/blob/master/LICENSE) license.
