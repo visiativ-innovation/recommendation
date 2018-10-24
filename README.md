@@ -17,8 +17,9 @@ The steps for running the code :
 		 4 : Maximum number of iterations
 		 4 : Model path
 		 4 : Model name (MP, BPRMF, MC, FPMC, HRM_max, HRM_avg, PRME, TransRec_L1, TransRec, Fossil, REBUS)
-		 Example 1 : ./train 01-Data/visiativ-prep.csv 5 5 1 1 10 0.01 0 0 -0.6 10000 03-Models/my_model REBUS
-		 Example 2 : ./train 01-Data/Epinions.txt 5 5 1 12 10 0.1 0.1 0.1 -0.5 10000 03-Models/my_model TransRec
+		 
+* Example 1 : ./train 01-Data/visiativ-prep.csv 5 5 1 1 10 0.01 0 0 -0.6 10000 03-Models/my_model REBUS
+* Example 2 : ./train 01-Data/Epinions.txt 5 5 1 12 10 0.1 0.1 0.1 -0.5 10000 03-Models/my_model TransRec
 
 
 All Data can be found here : https://drive.google.com/open?id=1QttRl0m24pY2ilMTg8Wo9GvluGFyb9cP
