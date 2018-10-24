@@ -1,6 +1,7 @@
 # recommendation
 
 The steps for running the code :
+
 	1. Compile the code with the command "make"
 	2. Run the program with the following parameters :
 		 1 : data path
@@ -19,10 +20,19 @@ The steps for running the code :
 		 Example 1 : ./train 01-Data/visiativ-prep.csv 5 5 1 1 10 0.01 0 0 -0.6 10000 03-Models/my_model REBUS
 		 Example 2 : ./train 01-Data/Epinions.txt 5 5 1 12 10 0.1 0.1 0.1 -0.5 10000 03-Models/my_model TransRec
 
-If you have any issues with the code, you can conctat at corentin.lonjarret@visiativ.com
 
 All Data can be found here : https://drive.google.com/open?id=1QttRl0m24pY2ilMTg8Wo9GvluGFyb9cP
 
+You can find the explanation of our model in : [REBUS.PDF](https://github.com/visiativ-innovation/recommendation/REBUS.pdf)
+
+If you have any issues with the code, you can conctat at corentin.lonjarret@visiativ.com
+
+## Thanks
 We thank R.He and J.McAuley who made available their codes and data. You can find the orignal code on their web page :
-	- Ruining He : https://sites.google.com/view/ruining-he/
-	- Julian McAuley : https://cseweb.ucsd.edu/~jmcauley/
+
+* Ruining He : https://sites.google.com/view/ruining-he/
+* Julian McAuley : https://cseweb.ucsd.edu/~jmcauley/
+
+License
+-------
+© Contributors, 2018. Licensed under an [Apache-2](https://github.com/visiativ-innovation/recommendation/LICENSE) license.
